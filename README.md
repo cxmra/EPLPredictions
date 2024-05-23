@@ -1,0 +1,1 @@
+Machine learning model used to predict gameweek winners of future EPL games. Data is scraped using BeautifulSoup and parsed using Pandas. The model uses a Random Forest Classifier to predict the winners.
